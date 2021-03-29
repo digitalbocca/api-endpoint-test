@@ -1,6 +1,6 @@
 {
   "name": "aet-frontend",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,17 +13,17 @@
   "author": "Gabriel Bertola Bocca - gabriel at estudiodigitalbocca.com.br",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.11.1",
-    "@babel/plugin-transform-runtime": "^7.11.0",
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-transform-runtime": "^7.12.10",
     "@vue/component-compiler-utils": "^3.2.0",
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-clean-easy": "^1.0.2",
     "pug": "^3.0.0",
-    "standard": "^14.3.4",
-    "vue-template-compiler": "^2.6.11"
+    "standard": "^16.0.3",
+    "vue-template-compiler": "^2.6.12"
   },
   "dependencies": {
-    "vue": "^2.6.11",
+    "vue": "^2.6.12",
     "vue-hot-reload-api": "^2.3.4"
   }
 }
